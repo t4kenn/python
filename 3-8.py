@@ -1,0 +1,5 @@
+a = int(6)
+b = int(5)
+c = int(8)
+d = int((c+b)*a/2)
+print(d)
